@@ -1,39 +1,49 @@
 # Wiki-GRx-Pipeline
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+![](pictures/1.png)
 
-#### 软件架构
-软件架构说明
+This repository provides a guidance for training GRx to walk on rough terrain using NVIDIA's Isaac Gym, legged_gym and rsl_rl libraries from Legged Robotics @ ETH Zürich.
 
+## Requirements
 
-#### 安装教程
+- Ubuntu 20.04
+- Anaconda
+- NVIDIA GPU (Prefer GPU powerful than GTX 3060)
+- NVIDIA Driver with CUDA higher than 11.0
+- Python 3.8
+- Isaac Gym
+- legged_gym
+- rsl_rl
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## Pipeline
 
-#### 使用说明
+The pipeline of training GRx to walk on rough terrain can be divided into the following steps:
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. Prepare robot model:
+    - https://e.gitee.com/FourierIntelligence/repos/FourierIntelligence/wiki-grx-models/sources
+    - This repository provides the GRx series robot models in URDF format.
 
-#### 参与贡献
+2. Prepare walking policy:
+    - https://e.gitee.com/FourierIntelligence/repos/FourierIntelligence/wiki-grx-gym/sources
+    - This repository provides the code for training walking policy for GRx in Isaac Gym.
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+3. Verify in simulator with ODE physics engine:
+    - https://e.gitee.com/FourierIntelligence/repos/FourierIntelligence/wiki-grx-webots/sources
+    - This repository provides the code for verifying the walking policy in the simulator with ODE physics engine.
+    - Use Webots as the simulator.
 
+4. Deploy on real robot:
+    - https://gitee.com/FourierIntelligence/wiki-grx-deploy
+    - This repository provides the code for deploying the walking policy on the real robot.
 
-#### 特技
+## More Low-Level Controls
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+If you are interested in the more low-level controls of Fourier Intelligence products,
+you can refer to the following repositories:
+
+- Fourier Intelligence Actuator (FSA):
+    - https://gitee.com/FourierIntelligence/wiki-fsa
+- Fourier Intelligence Encoder (FSE):
+    - https://gitee.com/FourierIntelligence/wiki-fse
+- Fourier Intelligence Dexterous Hand (FDH):
+    - https://gitee.com/FourierIntelligence/wiki-fdh
