@@ -58,5 +58,5 @@ Buying one GRx series robot will be provided with more detailed development guid
 
 ---
 
-Thank you for your interest in the Fourier Intelligence GRx Robot Model Repository.
+Thank you for your interest in the Fourier Intelligence GRx Robot Repositories.
 We hope you find this resource helpful in your robotics projects!
