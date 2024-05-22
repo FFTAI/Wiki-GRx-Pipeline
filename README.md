@@ -47,3 +47,16 @@ you can refer to the following repositories:
     - https://gitee.com/FourierIntelligence/wiki-fse
 - Fourier Intelligence Dexterous Hand (FDH):
     - https://gitee.com/FourierIntelligence/wiki-fdh
+
+## Order GRx Series Robot
+
+If you are interested in buying Fourier Intelligence GRx series robot, please use the following link to contact:
+
+- https://www.fftai.cn/order/
+
+Buying one GRx series robot will be provided with more detailed development guidance and support from our engineers.
+
+---
+
+Thank you for your interest in the Fourier Intelligence GRx Robot Model Repository.
+We hope you find this resource helpful in your robotics projects!
