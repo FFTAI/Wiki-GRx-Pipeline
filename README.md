@@ -38,7 +38,7 @@ The pipeline of training GRx to walk on rough terrain can be divided into the fo
 
 ## More Low-Level Controls
 
-If you are interested in the more low-level controls of Fourier Intelligence products,
+If you are interested in the low-level controls of Fourier Intelligence products,
 you can refer to the following repositories:
 
 - Fourier Intelligence Actuator (FSA):
