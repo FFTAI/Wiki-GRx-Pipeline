@@ -58,7 +58,7 @@ you can refer to the following repository:
 
 ---
 
-## Order GRx Series Robot
+## Order GRx Series Robot 🛒
 
 If you are interested in buying Fourier Intelligence GRx series robot, please use the following link to contact:
 
