@@ -20,15 +20,15 @@ This repository provides a guidance for training GRx to walk on rough terrain us
 The pipeline of training GRx to walk on rough terrain can be divided into the following steps:
 
 1. Prepare robot model:
-    - https://e.gitee.com/FourierIntelligence/repos/FourierIntelligence/wiki-grx-models/sources
+    - https://gitee.com/FourierIntelligence/wiki-grx-models
     - This repository provides the GRx series robot models in URDF format.
 
 2. Prepare walking policy:
-    - https://e.gitee.com/FourierIntelligence/repos/FourierIntelligence/wiki-grx-gym/sources
+    - https://gitee.com/FourierIntelligence/wiki-grx-gym
     - This repository provides the code for training walking policy for GRx in Isaac Gym.
 
 3. Verify in simulator with ODE physics engine:
-    - https://e.gitee.com/FourierIntelligence/repos/FourierIntelligence/wiki-grx-webots/sources
+    - https://gitee.com/FourierIntelligence/wiki-grx-webots
     - This repository provides the code for verifying the walking policy in the simulator with ODE physics engine.
     - Use Webots as the simulator.
 
