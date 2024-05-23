@@ -36,7 +36,7 @@ The pipeline of training GRx to walk on rough terrain can be divided into the fo
     - https://gitee.com/FourierIntelligence/wiki-grx-deploy
     - This repository provides the code for deploying the walking policy on the real robot.
 
-## More Low-Level Controls
+## Low-Level Controls
 
 If you are interested in the low-level controls of Fourier Intelligence products,
 you can refer to the following repositories:
