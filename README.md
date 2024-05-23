@@ -48,6 +48,14 @@ you can refer to the following repositories:
 - Fourier Intelligence Dexterous Hand (FDH):
     - https://gitee.com/FourierIntelligence/wiki-fdh
 
+## Model Conversion
+
+If you are interested in converting the neural network models to jit models for deployment on the real robot in other languages,
+you can refer to the following repository:
+
+- Fourier Intelligence JIT Compiler:
+    - https://gitee.com/FourierIntelligence/wiki-jit
+
 ---
 
 ## Order GRx Series Robot
