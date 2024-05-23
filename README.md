@@ -48,6 +48,8 @@ you can refer to the following repositories:
 - Fourier Intelligence Dexterous Hand (FDH):
     - https://gitee.com/FourierIntelligence/wiki-fdh
 
+---
+
 ## Order GRx Series Robot
 
 If you are interested in buying Fourier Intelligence GRx series robot, please use the following link to contact:
