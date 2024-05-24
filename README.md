@@ -32,7 +32,7 @@ The pipeline of training GRx to walk on rough terrain can be divided into the fo
     - This repository provides the code for verifying the walking policy in the simulator with ODE physics engine.
     - Use Webots as the simulator.
 
-4. Deploy on real robot:
+4. Deploy on real robot 🤖:
     - https://gitee.com/FourierIntelligence/wiki-grx-deploy
     - This repository provides the code for deploying the walking policy on the real robot.
 
