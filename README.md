@@ -28,12 +28,12 @@ The pipeline of training GRx to walk on rough terrain can be divided into the fo
     - This repository provides the code for training walking policy for GRx in Isaac Gym.
 
 3. **Verify** in simulator with ODE physics engine:
-    - Webots:
+    - **Webots**:
         - https://gitee.com/FourierIntelligence/wiki-grx-webots
-        - This repository provides the code for verifying the walking policy in the **Webots** simulator with ODE physics engine.
-    - Gazebo:
+        - This repository provides the code for verifying the walking policy in the Webots simulator with ODE physics engine.
+    - **Gazebo**:
         - https://gitee.com/FourierIntelligence/wiki-grx-gazebo
-        - This repository provides the code for verifying the walking policy in the **Gazebo** simulator with ODE physics engine.
+        - This repository provides the code for verifying the walking policy in the Gazebo simulator with ODE physics engine.
 
 4. **Deploy** on real robot 🤖:
     - https://gitee.com/FourierIntelligence/wiki-grx-deploy
