@@ -24,8 +24,9 @@ The pipeline of training GRx to walk on rough terrain can be divided into the fo
     - This repository provides the GRx series robot models in URDF format.
 
 2. **Train** walking policy:
-    - https://gitee.com/FourierIntelligence/wiki-grx-gym
-    - This repository provides the code for training walking policy for GRx in Isaac Gym.
+    - **Isaac Gym**:
+        - https://gitee.com/FourierIntelligence/wiki-grx-gym
+        - This repository provides the code for training walking policy for GRx in Isaac Gym.
 
 3. **Verify** in simulator with ODE physics engine:
     - **Webots**:
