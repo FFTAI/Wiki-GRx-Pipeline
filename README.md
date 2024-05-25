@@ -2,7 +2,7 @@
 
 ![](pictures/7.png)
 
-This repository provides a guidance for training GRx to walk on rough terrain using NVIDIA's Isaac Gym, legged_gym and rsl_rl libraries from Legged Robotics @ ETH Zürich.
+This repository provides a guidance for training GRx to walk on rough terrain using Reinforcement Learning (RL) algorithms.
 
 ## Requirements
 
