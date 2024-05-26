@@ -20,24 +20,24 @@ This repository provides a guidance for training Fourier Intelligence GRx series
 The pipeline of training Fourier Intelligence GRx series robot to walk on rough terrain can be divided into the following steps:
 
 1. **Prepare** robot model:
-    - https://gitee.com/FourierIntelligence/wiki-grx-models
+    - [Wiki-GRx-Models](https://gitee.com/FourierIntelligence/wiki-grx-models)
     - This repository provides the GRx series robot models in URDF format.
 
 2. **Train** walking policy:
     - **Isaac Gym**:
-        - https://gitee.com/FourierIntelligence/wiki-grx-gym
+        - [Wiki-GRx-Gym](https://gitee.com/FourierIntelligence/wiki-grx-gym)
         - This repository provides the code for training walking policy for GRx in Isaac Gym.
 
 3. **Verify** in simulator with ODE physics engine:
     - **Webots**:
-        - https://gitee.com/FourierIntelligence/wiki-grx-webots
+        - [Wiki-GRx-Webots](https://gitee.com/FourierIntelligence/wiki-grx-webots)
         - This repository provides the code for verifying the walking policy in the Webots simulator with ODE physics engine.
     - **Gazebo**:
-        - https://gitee.com/FourierIntelligence/wiki-grx-gazebo
+        - [Wiki-GRx-Gazebo](https://gitee.com/FourierIntelligence/wiki-grx-gazebo)
         - This repository provides the code for verifying the walking policy in the Gazebo simulator with ODE physics engine.
 
 4. **Deploy** on real robot 🤖:
-    - https://gitee.com/FourierIntelligence/wiki-grx-deploy
+    - [Wiki-GRx-Deploy](https://gitee.com/FourierIntelligence/wiki-grx-deploy)
     - This repository provides the code for deploying the walking policy on the real robot.
 
 ## Low-Level Controls
@@ -46,11 +46,11 @@ If you are interested in the low-level controls of Fourier Intelligence products
 you can refer to the following repositories:
 
 - Fourier Intelligence Actuator (FSA):
-    - https://gitee.com/FourierIntelligence/wiki-fsa
+    - [Wiki-FSA](https://gitee.com/FourierIntelligence/wiki-fsa)
 - Fourier Intelligence Encoder (FSE):
-    - https://gitee.com/FourierIntelligence/wiki-fse
+    - [Wiki-FSE](https://gitee.com/FourierIntelligence/wiki-fse)
 - Fourier Intelligence Dexterous Hand (FDH):
-    - https://gitee.com/FourierIntelligence/wiki-fdh
+    - [Wiki-FDH](https://gitee.com/FourierIntelligence/wiki-fdh)
 
 ## Model Conversion
 
@@ -58,7 +58,7 @@ If you are interested in converting the neural network models to jit models for 
 you can refer to the following repository:
 
 - Fourier Intelligence JIT Compiler:
-    - https://gitee.com/FourierIntelligence/wiki-jit
+    - [Wiki-JIT](https://gitee.com/FourierIntelligence/wiki-jit)
 
 ---
 
