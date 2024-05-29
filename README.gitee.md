@@ -1,6 +1,6 @@
 # Wiki-GRx-Pipeline
 
-[Github README.md](./README.github.md)
+[Github README.md](./README)
 
 ![](pictures/7.png)
 
