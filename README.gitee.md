@@ -1,5 +1,7 @@
 # Wiki-GRx-Pipeline
 
+[Github README.md](./README.github.md)
+
 ![](pictures/7.png)
 
 This repository provides a guidance for training Fourier Intelligence GRx series robot to walk on rough terrain using Reinforcement Learning (RL) algorithms.
