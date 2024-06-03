@@ -20,8 +20,12 @@ This repository provides a guidance for training Fourier Intelligence GRx series
 The pipeline of training Fourier Intelligence GRx series robot to walk on rough terrain can be divided into the following steps:
 
 1. **Prepare** robot model:
-    - [Wiki-GRx-Models](https://github.com/FFTAI/wiki-grx-models)
-    - This repository provides the GRx series robot models in URDF format.
+    - **URDF**:
+        - [Wiki-GRx-Models](https://github.com/FFTAI/wiki-grx-models)
+        - This repository provides the GRx series robot models in URDF format.
+    - **MJCF**:
+        - [Wiki-MJCF](https://github.com/FFTAI/wiki-mjcf)
+        - This repository provides the MJCF format robot models for training in MuJoCo.
 
 2. **Train** walking policy:
     - **Isaac Gym**:
