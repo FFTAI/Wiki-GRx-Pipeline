@@ -27,7 +27,7 @@
         - [Wiki-GRx-Gym](https://github.com/FFTAI/wiki-grx-gym)
         - 该仓库提供在Isaac Gym中训练GRx机器人行走策略的代码实现。
 
-3. **真实机器人部署**🤖：
+3. **部署**真实机器人🤖：
     - [Wiki-GRx-Deploy](https://github.com/FFTAI/wiki-grx-deploy)
     - 该仓库提供将训练好的策略部署到真实GRx机器人的代码实现。
 
