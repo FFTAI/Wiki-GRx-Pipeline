@@ -9,9 +9,8 @@
 ## 环境要求
 
 - Ubuntu 20.04 / 22.04 系统
-- Miniconda 环境
 - NVIDIA GPU（建议GTX 3060以上性能）
-- NVIDIA显卡驱动（CUDA版本11.0以上）
+- NVIDIA 显卡驱动（CUDA版本11.0以上）
 
 ## 实施流程
 

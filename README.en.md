@@ -9,7 +9,6 @@ This repository provides a guidance for training Fourier Intelligence GRx series
 ## Requirements
 
 - Ubuntu 20.04
-- Miniconda
 - NVIDIA GPU (Prefer GPU powerful than GTX 3060)
 - NVIDIA Driver with CUDA higher than 11.0
 
