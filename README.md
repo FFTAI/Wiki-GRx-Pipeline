@@ -4,7 +4,7 @@
 
 ![](pictures/7.png)
 
-本仓库提供使用强化学习（Reinforcement Learning, RL）算法训练傅利叶智能GRx系列机器人实现复杂地形行走的完整流程指南。
+本仓库提供使用强化学习（Reinforcement Learning, RL）算法训练傅利叶智能GRx系列机器人实现平地行走的完整流程指南。
 
 ## 环境要求
 
