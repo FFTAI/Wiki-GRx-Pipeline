@@ -17,6 +17,8 @@ This repository provides a guidance for training Fourier Intelligence GRx series
 
 The pipeline of training Fourier Intelligence GRx series robot to walk on plane can be divided into the following steps:
 
+（GRMini related content is in `mini` branch）
+
 1. **Prepare** robot model:
     - **URDF**:
         - [Wiki-GRx-Models](https://github.com/FFTAI/wiki-grx-models)

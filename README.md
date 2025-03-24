@@ -17,6 +17,8 @@
 
 训练傅利叶智能GRx系列机器人复杂地形行走能力的完整流程可分为以下步骤：
 
+（GRMini 相关内容请查看 `mini` 分支）
+
 1. **准备**机器人模型：
     - **URDF模型**：
         - [Wiki-GRx-Models](https://github.com/FFTAI/wiki-grx-models)
