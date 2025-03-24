@@ -32,6 +32,10 @@ The pipeline of training Fourier Intelligence GRx series robot to walk on plane 
     - [Wiki-GRx-Deploy](https://github.com/FFTAI/wiki-grx-deploy)
     - This repository provides the code for deploying the walking policy on the real robot.
 
+## 参考文档
+
+Please refer to the document [Fourier-GRX](https://fftai.github.io/fourier-grx/index.html#) for more details.
+
 ---
 
 Thank you for your interest in the Fourier Intelligence GRx Robot Repositories.

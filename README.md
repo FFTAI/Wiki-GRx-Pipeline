@@ -32,6 +32,10 @@
     - [Wiki-GRx-Deploy](https://github.com/FFTAI/wiki-grx-deploy)
     - 该仓库提供将训练好的策略部署到真实GRx机器人的代码实现。
 
+## 参考文档
+
+请参阅文档 [Fourier-GRX](https://fftai.github.io/fourier-grx/index.html#) 以获取更多详细信息。
+
 ---
 
 感谢您对傅利叶智能GRx机器人开源项目的关注！希望本资源能为您的机器人开发提供有力支持！
