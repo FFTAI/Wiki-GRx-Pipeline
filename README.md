@@ -1,4 +1,4 @@
-[简体中文](README.md) | English
+[English](README.en.md) | 简体中文
 
 # Wiki-GRx-Pipeline
 
