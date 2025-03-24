@@ -1,3 +1,5 @@
+[简体中文](README.cn.md) | English
+
 # Wiki-GRx-Pipeline
 
 ![](pictures/7.png)
