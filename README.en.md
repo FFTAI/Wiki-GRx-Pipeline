@@ -34,7 +34,7 @@ The pipeline of training Fourier Intelligence GRx series robot to walk on plane 
 
 ## 参考文档
 
-Please refer to the document [Fourier-GRX](https://fourier-grx.github.io) for more details.
+Please refer to the document [Fourier-GRX](https://fourier-grx-N1.github.io) for more details.
 
 ---
 
