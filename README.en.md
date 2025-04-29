@@ -38,5 +38,5 @@ Please refer to the document [Fourier-GRX](https://fourier-grx.github.io) for mo
 
 ---
 
-Thank you for your interest in the Fourier Intelligence GRx Robot Repositories.
-We hope you find this resource helpful in your robotics projects!
+Thank you for your interest in Fourier's N1 robot project!
+We hope this resource will provide strong support for your robotics development!
