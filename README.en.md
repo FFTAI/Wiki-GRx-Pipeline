@@ -18,17 +18,21 @@ The pipeline of training Fourier Intelligence GRx series robot to walk on plane 
 
 （N1 related content is in `FourierN1` branch）
 
-1. **Prepare** robot model:
-    - **URDF**:
+1. **Prepare** robot model
+    - **URDF Model**
         - [Wiki-GRx-Models](https://github.com/FFTAI/Wiki-GRx-Models/tree/mini)
         - This repository provides the GRx series robot models in URDF format.
 
-2. **Train** walking policy:
-    - **Isaac Gym**:
+    - **MJCF Model**
+        - [Wiki-GRx-MJCF](https://github.com/FFTAI/wiki-grx-mjcf)
+        - This repository provides the GRx series robot models in MJCF format.
+
+2. **Train** walking policy
+    - **Isaac Gym**
         - [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Models/tree/mini)
         - This repository provides the code for training walking policy for Fourier GRx in Isaac Gym.
 
-3. **Deploy** on real robot 🤖:
+3. **Deploy** on real robot 🤖
     - [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy/tree/mini)
     - This repository provides the code for deploying the walking policy on the Fourier GRx real robot.
 

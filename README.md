@@ -18,17 +18,21 @@
 
 （N1 相关内容请查看 `FourierN1` 分支）
 
-1. **准备**机器人模型：
-    - **URDF模型**：
+1. **准备**机器人模型
+    - **URDF 模型**
         - [Wiki-GRx-Models](https://github.com/FFTAI/wiki-grx-models)
-        - 该仓库提供GRx系列机器人的URDF格式模型文件。
+        - 该仓库提供 Fourier GRx 系列机器人的 URDF 格式模型文件。
 
-2. **训练**行走策略：
-    - **Isaac Gym训练平台**：
+    - **MJCF 模型**
+        - [Wiki-GRx-MJCF](https://github.com/FFTAI/wiki-grx-mjcf)
+        - 该仓库提供 Fourier GRx 系列机器人的 MJCF 格式模型文件。
+
+2. **训练**行走策略
+    - **Isaac Gym 训练平台**
         - [Wiki-GRx-Gym](https://github.com/FFTAI/wiki-grx-gym)
-        - 该仓库提供在Isaac Gym中训练 Fourier GRx 机器人行走策略的代码实现。
+        - 该仓库提供在 Isaac Gym 中训练 Fourier GRx 机器人行走策略的代码实现。
 
-3. **部署**真实机器人🤖：
+3. **部署**真实机器人🤖
     - [Wiki-GRx-Deploy](https://github.com/FFTAI/wiki-grx-deploy)
     - 该仓库提供将训练好的策略部署到真实 Fourier GRx 机器人的代码实现。
 
