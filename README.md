@@ -32,7 +32,12 @@
         - [Wiki-GRx-Gym](https://github.com/FFTAI/wiki-grx-gym)
         - 该仓库提供在 Isaac Gym 中训练 Fourier GRx 机器人行走策略的代码实现。
 
-3. **部署**真实机器人🤖
+3. **验证**行走策略
+    - **MUJOCO 仿真平台**
+        - [Wiki-GRx-Mujoco](https://github.com/FFTAI/wiki-grx-mujoco)
+        - 该仓库提供在 Mujoco 中验证 Fourier GRx 机器人行走策略的代码实现。
+
+4. **部署**真实机器人🤖
     - [Wiki-GRx-Deploy](https://github.com/FFTAI/wiki-grx-deploy)
     - 该仓库提供将训练好的策略部署到真实 Fourier GRx 机器人的代码实现。
 
