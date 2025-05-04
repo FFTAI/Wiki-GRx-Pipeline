@@ -20,7 +20,7 @@
 
 1. **准备**机器人模型
     - **URDF 模型**
-        - [Wiki-GRx-Models](https://github.com/FFTAI/wiki-grx-models)
+        - [Wiki-GRx-URDF](https://github.com/FFTAI/wiki-grx-urdf)
         - 该仓库提供 Fourier GRx 系列机器人的 URDF 格式模型文件。
 
     - **MJCF 模型**

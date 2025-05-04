@@ -20,7 +20,7 @@ The pipeline of training Fourier Intelligence GRx series robot to walk on plane 
 
 1. **Prepare** robot model
     - **URDF Model**
-        - [Wiki-GRx-Models](https://github.com/FFTAI/Wiki-GRx-Models/tree/mini)
+        - [Wiki-GRx-URDF](https://github.com/FFTAI/wiki-grx-urdf)
         - This repository provides the GRx series robot models in URDF format.
 
     - **MJCF Model**
