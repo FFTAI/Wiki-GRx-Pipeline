@@ -28,12 +28,12 @@ The pipeline of training Fourier Intelligence GRx series robot to walk on plane 
         - This repository provides the GRx series robot models in MJCF format.
 
 2. **Train** walking policy
-    - **Isaac Gym**
+    - **Isaac Gym** ![nvidia.png](pictures/nvidia.png)
         - [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Models/tree/mini)
         - This repository provides the code for training walking policy for Fourier GRx in Isaac Gym.
 
 3. **Validate** walking policy
-    - **MUJOCO**
+    - **MUJOCO** ![mujoco.png](pictures/mujoco.png)
         - [Wiki-GRx-Mujoco](https://github.com/FFTAI/wiki-grx-mujoco)
         - This repository provides the code for validating walking policy for Fourier GRx in Mujoco.
 
