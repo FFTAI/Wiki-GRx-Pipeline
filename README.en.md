@@ -2,7 +2,7 @@
 
 # Wiki-GRx-Pipeline
 
-![](pictures/7.png)
+![](pictures/developer_banner.png)
 
 This repository provides a guidance for training Fourier Intelligence GRx series robot to walk on plane using Reinforcement Learning (RL) algorithms.
 

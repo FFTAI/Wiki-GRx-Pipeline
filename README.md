@@ -2,7 +2,7 @@
 
 # Wiki-GRx-Pipeline
 
-![](pictures/7.png)
+![](pictures/developer_banner.png)
 
 本仓库提供使用强化学习（Reinforcement Learning, RL）算法训练傅利叶智能 GRx 系列机器人实现平地行走的完整流程指南。
 
