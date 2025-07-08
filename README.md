@@ -20,25 +20,25 @@
 
 1. **准备**机器人模型
     - **URDF 模型**
-        - [Wiki-GRx-URDF](https://github.com/FFTAI/wiki-grx-urdf)
+        - [Wiki-GRx-URDF](https://github.com/FFTAI/wiki-grx-urdf/tree/FourierN1)
         - 该仓库提供 Fourier GRx 系列机器人的 URDF 格式模型文件。
 
     - **MJCF 模型**
-        - [Wiki-GRx-MJCF](https://github.com/FFTAI/wiki-grx-mjcf)
+        - [Wiki-GRx-MJCF](https://github.com/FFTAI/wiki-grx-mjcf/tree/FourierN1)
         - 该仓库提供 Fourier GRx 系列机器人的 MJCF 格式模型文件。
 
 2. **训练**行走策略
     - **Isaac Gym 训练平台** ![nvidia.png](pictures/nvidia.png)
-        - [Wiki-GRx-Gym](https://github.com/FFTAI/wiki-grx-gym)
+        - [Wiki-GRx-Gym](https://github.com/FFTAI/wiki-grx-gym/tree/FourierN1)
         - 该仓库提供在 Isaac Gym 中训练 Fourier GRx 机器人行走策略的代码实现。
 
 3. **验证**行走策略
     - **MUJOCO 仿真平台** ![mujoco.png](pictures/mujoco.png)
-        - [Wiki-GRx-Mujoco](https://github.com/FFTAI/wiki-grx-mujoco)
+        - [Wiki-GRx-Mujoco](https://github.com/FFTAI/wiki-grx-mujoco/tree/FourierN1)
         - 该仓库提供在 Mujoco 中验证 Fourier GRx 机器人行走策略的代码实现。
 
 4. **部署**真实机器人🤖
-    - [Wiki-GRx-Deploy](https://github.com/FFTAI/wiki-grx-deploy)
+    - [Wiki-GRx-Deploy](https://github.com/FFTAI/wiki-grx-deploy/tree/FourierN1)
     - 该仓库提供将训练好的策略部署到真实 Fourier GRx 机器人的代码实现。
 
 ## 参考文档

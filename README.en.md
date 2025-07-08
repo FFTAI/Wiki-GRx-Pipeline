@@ -20,25 +20,25 @@ The pipeline of training Fourier Intelligence GRx series robot to walk on plane 
 
 1. **Prepare** robot model
     - **URDF Model**
-        - [Wiki-GRx-URDF](https://github.com/FFTAI/wiki-grx-urdf)
+        - [Wiki-GRx-URDF](https://github.com/FFTAI/wiki-grx-urdf/tree/FourierN1)
         - This repository provides the GRx series robot models in URDF format.
 
     - **MJCF Model**
-        - [Wiki-GRx-MJCF](https://github.com/FFTAI/wiki-grx-mjcf)
+        - [Wiki-GRx-MJCF](https://github.com/FFTAI/wiki-grx-mjcf/tree/FourierN1)
         - This repository provides the GRx series robot models in MJCF format.
 
 2. **Train** walking policy
     - **Isaac Gym** ![nvidia.png](pictures/nvidia.png)
-        - [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Models/tree/mini)
+        - [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Models/tree/FourierN1)
         - This repository provides the code for training walking policy for Fourier GRx in Isaac Gym.
 
 3. **Validate** walking policy
     - **MUJOCO** ![mujoco.png](pictures/mujoco.png)
-        - [Wiki-GRx-Mujoco](https://github.com/FFTAI/wiki-grx-mujoco)
+        - [Wiki-GRx-Mujoco](https://github.com/FFTAI/wiki-grx-mujoco/tree/FourierN1)
         - This repository provides the code for validating walking policy for Fourier GRx in Mujoco.
 
 4. **Deploy** on real robot 🤖
-    - [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy/tree/mini)
+    - [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy/tree/FourierN1)
     - This repository provides the code for deploying the walking policy on the Fourier GRx real robot.
 
 ## 参考文档
