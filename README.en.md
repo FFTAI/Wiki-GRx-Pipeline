@@ -16,36 +16,36 @@ This repository provides a guidance for training Fourier Intelligence GRx series
 
 The pipeline of training Fourier Intelligence GRx series robot to walk on plane can be divided into the following steps:
 
-（N1 related content is in `FourierN1` branch）
+（GR2 related content is in `FourierGR2` branch）
 
 1. **Prepare** robot model
     - **URDF Model**
-        - [Wiki-GRx-URDF](https://github.com/FFTAI/wiki-grx-urdf/tree/FourierN1)
+        - [Wiki-GRx-URDF](https://github.com/FFTAI/wiki-grx-urdf/tree/FourierGR2)
         - This repository provides the GRx series robot models in URDF format.
 
     - **MJCF Model**
-        - [Wiki-GRx-MJCF](https://github.com/FFTAI/wiki-grx-mjcf/tree/FourierN1)
+        - [Wiki-GRx-MJCF](https://github.com/FFTAI/wiki-grx-mjcf/tree/FourierGR2)
         - This repository provides the GRx series robot models in MJCF format.
 
 2. **Train** walking policy
     - **Isaac Gym** ![nvidia.png](pictures/nvidia.png)
-        - [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Models/tree/FourierN1)
+        - [Wiki-GRx-Gym](https://github.com/FFTAI/Wiki-GRx-Models/tree/FourierGR2)
         - This repository provides the code for training walking policy for Fourier GRx in Isaac Gym.
 
 3. **Validate** walking policy
     - **MUJOCO** ![mujoco.png](pictures/mujoco.png)
-        - [Wiki-GRx-Mujoco](https://github.com/FFTAI/wiki-grx-mujoco/tree/FourierN1)
+        - [Wiki-GRx-Mujoco](https://github.com/FFTAI/wiki-grx-mujoco/tree/FourierGR2)
         - This repository provides the code for validating walking policy for Fourier GRx in Mujoco.
 
 4. **Deploy** on real robot 🤖
-    - [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy/tree/FourierN1)
+    - [Wiki-GRx-Deploy](https://github.com/FFTAI/Wiki-GRx-Deploy/tree/FourierGR2)
     - This repository provides the code for deploying the walking policy on the Fourier GRx real robot.
 
 ## 参考文档
 
-Please refer to the document [Fourier-GRX](https://fourier-grx-N1.github.io) for more details.
+Please refer to the document [Fourier-GRX](https://fourier-grx-GR2.github.io) for more details.
 
 ---
 
-Thank you for your interest in Fourier's N1 robot project!
+Thank you for your interest in Fourier's GR2 robot project!
 We hope this resource will provide strong support for your robotics development!
