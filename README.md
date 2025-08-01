@@ -23,10 +23,6 @@
         - [Wiki-GRx-URDF](https://github.com/FFTAI/wiki-grx-urdf/tree/FourierGR2)
         - 该仓库提供 Fourier GRx 系列机器人的 URDF 格式模型文件。
 
-    - **MJCF 模型**
-        - [Wiki-GRx-MJCF](https://github.com/FFTAI/wiki-grx-mjcf/tree/FourierGR2)
-        - 该仓库提供 Fourier GRx 系列机器人的 MJCF 格式模型文件。
-
 2. **训练**行走策略
     - **Isaac Gym 训练平台** ![nvidia.png](pictures/nvidia.png)
         - [Wiki-GRx-Gym](https://github.com/FFTAI/wiki-grx-gym/tree/FourierGR2)
