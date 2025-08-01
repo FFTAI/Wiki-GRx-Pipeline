@@ -43,7 +43,7 @@
 
 ## 参考文档
 
-请参阅文档 [Fourier-GRX](https://fourier-grx-GR2.github.io) 以获取更多详细信息。
+请参阅文档 [Fourier-GRX](https://fftai.github.io/fourier-grx-GR2/) 以获取更多详细信息。
 
 ---
 
